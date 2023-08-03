@@ -1,0 +1,3 @@
+Remember to move all JavaScript here when finished with site.
+
+Don't forget the one in maintenance (admin).
