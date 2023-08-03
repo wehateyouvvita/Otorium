@@ -1,0 +1,1 @@
+<center></center><img src="https://cdn.otorium.xyz/assets/images/logo.png" height="64" /><br />Toolbox has been disabled</a></center>
