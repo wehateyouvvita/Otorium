@@ -1,0 +1,17 @@
+[04-Mar-2018 16:59:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'otoriumx_main'@'localhost' (using password: YES) in /home/otorium/public_html/otorium.xyz/api/core/db/connect.php:17
+Stack trace:
+#0 /home/otorium/public_html/otorium.xyz/api/core/db/connect.php(17): PDO->__construct('mysql:host=loca...', 'otoriumx_main', 'adminsonlyxd12', Array)
+#1 /home/otorium/public_html/otorium.xyz/api/cfg/header.php(9): include('/home/otorium/p...')
+#2 /home/otorium/public_html/otorium.xyz/index.php(1): include('/home/otorium/p...')
+#3 {main}
+  thrown in /home/otorium/public_html/otorium.xyz/api/core/db/connect.php on line 17
+[04-Mar-2018 17:05:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'otoriumx_main'@'localhost' (using password: YES) in /home/otorium/public_html/otorium.xyz/api/core/db/connect.php:17
+Stack trace:
+#0 /home/otorium/public_html/otorium.xyz/api/core/db/connect.php(17): PDO->__construct('mysql:host=loca...', 'otoriumx_main', 'adminsonlyxd12', Array)
+#1 /home/otorium/public_html/otorium.xyz/api/cfg/header.php(9): include('/home/otorium/p...')
+#2 /home/otorium/public_html/otorium.xyz/index.php(1): include('/home/otorium/p...')
+#3 {main}
+  thrown in /home/otorium/public_html/otorium.xyz/api/core/db/connect.php on line 17
+[04-Mar-2018 20:19:08 UTC] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/otorium/public_html/otorium.xyz/api/cfg/header.php on line 7
+[04-Mar-2018 20:19:10 UTC] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/otorium/public_html/otorium.xyz/api/cfg/header.php on line 7
+[05-Mar-2018 00:51:07 UTC] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/otorium/public_html/otorium.xyz/api/cfg/header.php on line 7
