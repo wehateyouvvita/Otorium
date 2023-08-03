@@ -1,0 +1,266 @@
+[23-Jan-2018 13:10:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:323
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(323): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 323
+[23-Jan-2018 13:10:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:323
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(323): PDO->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 323
+[23-Jan-2018 14:59:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:559
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(559): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 559
+[23-Jan-2018 15:17:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:563
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(563): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 563
+[23-Jan-2018 15:24:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:563
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(563): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 563
+[23-Jan-2018 15:50:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:563
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(563): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 563
+[23-Jan-2018 15:58:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:563
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(563): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 563
+[23-Jan-2018 17:42:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:563
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(563): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 563
+[23-Jan-2018 18:03:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:563
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(563): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 563
+[23-Jan-2018 18:33:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:563
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(563): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 563
+[23-Jan-2018 19:01:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:566
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(566): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 566
+[23-Jan-2018 20:14:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:595
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(595): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 595
+[23-Jan-2018 20:20:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:595
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(595): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 595
+[23-Jan-2018 20:20:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:595
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(595): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 595
+[23-Jan-2018 21:11:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[23-Jan-2018 21:23:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[23-Jan-2018 21:37:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[23-Jan-2018 22:04:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[23-Jan-2018 22:07:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[23-Jan-2018 22:12:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[23-Jan-2018 22:18:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[23-Jan-2018 22:18:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[23-Jan-2018 22:49:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[24-Jan-2018 00:14:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[24-Jan-2018 00:19:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:594
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(594): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 594
+[24-Jan-2018 01:26:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:600
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(600): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 600
+[24-Jan-2018 01:50:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:600
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(600): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 600
+[24-Jan-2018 01:51:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:600
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(600): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 600
+[24-Jan-2018 02:18:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:600
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(600): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 600
+[24-Jan-2018 02:31:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:616
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(616): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 616
+[24-Jan-2018 02:58:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:632
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(632): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 632
+[24-Jan-2018 03:39:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 03:39:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 04:17:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 04:55:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 09:21:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 12:42:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 17:52:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 19:55:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 20:52:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 21:03:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 21:57:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 23:22:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 23:35:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 23:35:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 23:36:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[24-Jan-2018 23:37:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:612
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(612): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 612
+[25-Jan-2018 00:17:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:633
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(633): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 633
+[25-Jan-2018 01:53:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:639
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(639): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 639
+[25-Jan-2018 02:32:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:639
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(639): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 639
+[25-Jan-2018 04:25:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:639
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(639): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 639
+[25-Jan-2018 09:45:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:639
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(639): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 639
+[25-Jan-2018 09:47:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/otoriumx/public_html/customization/index.php:639
+Stack trace:
+#0 /home/otoriumx/public_html/customization/index.php(639): PDO->query('SELECT * FROM c...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/customization/index.php on line 639
+[24-Feb-2018 22:24:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/otoriumx/public_html/customization/index.php on line 498
