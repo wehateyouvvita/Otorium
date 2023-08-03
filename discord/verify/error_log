@@ -1,0 +1,25 @@
+[11-Jan-2018 18:16:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'verified' in 'where clause' in /home/otoriumx/public_html/discord/verify/index.php:14
+Stack trace:
+#0 /home/otoriumx/public_html/discord/verify/index.php(14): PDO->query('SELECT * FROM d...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/discord/verify/index.php on line 14
+[11-Jan-2018 18:31:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' type = 1 AND valid = 1' at line 1 in /home/otoriumx/public_html/discord/verify/index.php:14
+Stack trace:
+#0 /home/otoriumx/public_html/discord/verify/index.php(14): PDO->query('SELECT * FROM d...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/discord/verify/index.php on line 14
+[11-Jan-2018 18:33:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' type = 1 AND valid = 1' at line 1 in /home/otoriumx/public_html/discord/verify/index.php:14
+Stack trace:
+#0 /home/otoriumx/public_html/discord/verify/index.php(14): PDO->query('SELECT * FROM d...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/discord/verify/index.php on line 14
+[11-Jan-2018 18:40:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' type = 0 AND valid = 1' at line 1 in /home/otoriumx/public_html/discord/verify/index.php:14
+Stack trace:
+#0 /home/otoriumx/public_html/discord/verify/index.php(14): PDO->query('SELECT * FROM d...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/discord/verify/index.php on line 14
+[10-Feb-2018 12:04:20 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 24
+[10-Feb-2018 12:04:42 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 24
+[10-Feb-2018 12:07:15 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 24
+[10-Feb-2018 12:11:57 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 24
+[10-Feb-2018 12:13:01 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 24

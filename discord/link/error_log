@@ -1,0 +1,2 @@
+[10-Feb-2018 12:04:25 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 24
+[10-Feb-2018 12:13:05 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 24
