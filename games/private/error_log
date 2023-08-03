@@ -1,0 +1,4 @@
+[19-Dec-2017 18:06:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/otoriumx/public_html/games/private/index.php:4) in /home/otoriumx/public_html/api/cfg/header.php on line 3
+[19-Dec-2017 18:06:44 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 19
+[19-Dec-2017 18:08:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/otoriumx/public_html/games/private/index.php:4) in /home/otoriumx/public_html/api/cfg/header.php on line 3
+[19-Dec-2017 18:08:22 UTC] PHP Fatal error:  Call to undefined function random_int() in /home/otoriumx/public_html/api/core/siteFunctions.php on line 19

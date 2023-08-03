@@ -1,0 +1,7 @@
+[10-Mar-2018 15:07:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/otorium/public_html/otorium.xyz/api/cfg/form_handlers.php:280
+Stack trace:
+#0 /home/otorium/public_html/otorium.xyz/api/cfg/form_handlers.php(280): PDOStatement->bindParam(':id', '38', 1)
+#1 /home/otorium/public_html/otorium.xyz/api/cfg/header.php(840): include('/home/otorium/p...')
+#2 /home/otorium/public_html/otorium.xyz/games/edit/index.php(1): include('/home/otorium/p...')
+#3 {main}
+  thrown in /home/otorium/public_html/otorium.xyz/api/cfg/form_handlers.php on line 280
