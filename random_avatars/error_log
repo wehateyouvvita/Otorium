@@ -1,0 +1,35 @@
+[15-Feb-2018 20:17:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'otoriumx_main.USERS' doesn't exist in /home/otoriumx/public_html/random_avatars/index.php:12
+Stack trace:
+#0 /home/otoriumx/public_html/random_avatars/index.php(12): PDO->query('SELECT count(*)...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/random_avatars/index.php on line 12
+[15-Feb-2018 20:18:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'otoriumx_main.USERS' doesn't exist in /home/otoriumx/public_html/random_avatars/index.php:12
+Stack trace:
+#0 /home/otoriumx/public_html/random_avatars/index.php(12): PDO->query('SELECT count(*)...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/random_avatars/index.php on line 12
+[15-Feb-2018 20:18:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'otoriumx_main.USERS' doesn't exist in /home/otoriumx/public_html/random_avatars/index.php:12
+Stack trace:
+#0 /home/otoriumx/public_html/random_avatars/index.php(12): PDO->query('SELECT count(*)...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/random_avatars/index.php on line 12
+[15-Feb-2018 20:18:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'otoriumx_main.USERS' doesn't exist in /home/otoriumx/public_html/random_avatars/index.php:12
+Stack trace:
+#0 /home/otoriumx/public_html/random_avatars/index.php(12): PDO->query('SELECT count(*)...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/random_avatars/index.php on line 12
+[15-Feb-2018 20:18:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'otoriumx_main.USERS' doesn't exist in /home/otoriumx/public_html/random_avatars/index.php:12
+Stack trace:
+#0 /home/otoriumx/public_html/random_avatars/index.php(12): PDO->query('SELECT count(*)...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/random_avatars/index.php on line 12
+[16-Feb-2018 00:28:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'otoriumx_main.USERS' doesn't exist in /home/otoriumx/public_html/random_avatars/index.php:12
+Stack trace:
+#0 /home/otoriumx/public_html/random_avatars/index.php(12): PDO->query('SELECT count(*)...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/random_avatars/index.php on line 12
+[16-Feb-2018 00:29:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'otoriumx_main.USERS' doesn't exist in /home/otoriumx/public_html/random_avatars/index.php:12
+Stack trace:
+#0 /home/otoriumx/public_html/random_avatars/index.php(12): PDO->query('SELECT count(*)...')
+#1 {main}
+  thrown in /home/otoriumx/public_html/random_avatars/index.php on line 12

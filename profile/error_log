@@ -1,0 +1,9 @@
+[04-Mar-2018 20:43:03 UTC] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/otorium/public_html/otorium.xyz/api/cfg/header.php on line 7
+[04-Mar-2018 20:49:28 UTC] PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /home/otorium/public_html/otorium.xyz/api/cfg/header.php on line 7
+[07-Mar-2018 20:56:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'dev' in 'where clause' in /home/otorium/public_html/otorium.xyz/api/cfg/form_handlers.php:255
+Stack trace:
+#0 /home/otorium/public_html/otorium.xyz/api/cfg/form_handlers.php(255): PDO->query('SELECT * FROM r...')
+#1 /home/otorium/public_html/otorium.xyz/api/cfg/header.php(840): include('/home/otorium/p...')
+#2 /home/otorium/public_html/otorium.xyz/profile/index.php(1): include('/home/otorium/p...')
+#3 {main}
+  thrown in /home/otorium/public_html/otorium.xyz/api/cfg/form_handlers.php on line 255
